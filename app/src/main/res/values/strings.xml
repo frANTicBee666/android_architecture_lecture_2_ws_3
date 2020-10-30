@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="first_activity_text">Введите строку для передачи на следующий экран:</string>
+    <string name="first_activity_button_text">Далее</string>
+
+    <string name="second_activity_text">На предыдущем экране вы ввели :</string>
+    <string name="second_activity_button_text">Назад</string>
+</resources>
